@@ -3,6 +3,7 @@
 #日期 : 2023/4/7 19:20
 """
 # 爬取36壁纸网站 https://www.3gbizhi.com/
+# 电脑
 from pyppeteer import launch
 from pyppeteer.errors import TimeoutError
 import asyncio
